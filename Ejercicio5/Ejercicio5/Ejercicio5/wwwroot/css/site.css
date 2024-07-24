@@ -1,22 +1,16 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    background-color: #f0f8ff; /* Fondo azul claro */
+}
+
+h1, h4 {
+    color: #003366; /* Azul oscuro */
+}
+
+.btn-primary {
+    background-color: #00509e; /* Azul medio */
+    border-color: #00509e;
+}
+
+.table {
+    color: #00509e; /* Azul medio */
 }
