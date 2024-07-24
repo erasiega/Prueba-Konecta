@@ -40,31 +40,33 @@
             radioButtonLeer = new RadioButton();
             buttonEjecutar = new Button();
             buttonCalcularComision = new Button();
+            label1 = new Label();
+            label2 = new Label();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // textBoxNombre
             // 
-            textBoxNombre.Location = new Point(280, 32);
+            textBoxNombre.Location = new Point(246, 13);
             textBoxNombre.Name = "textBoxNombre";
-            textBoxNombre.Size = new Size(100, 23);
+            textBoxNombre.Size = new Size(154, 23);
             textBoxNombre.TabIndex = 0;
             // 
             // textBoxVentas
             // 
-            textBoxVentas.Location = new Point(286, 91);
+            textBoxVentas.Location = new Point(246, 54);
             textBoxVentas.Name = "textBoxVentas";
-            textBoxVentas.Size = new Size(100, 23);
+            textBoxVentas.Size = new Size(154, 23);
             textBoxVentas.TabIndex = 1;
             // 
             // labelResultado
             // 
             labelResultado.AutoSize = true;
-            labelResultado.Location = new Point(321, 183);
+            labelResultado.Location = new Point(168, 104);
             labelResultado.Name = "labelResultado";
-            labelResultado.Size = new Size(84, 15);
+            labelResultado.Size = new Size(12, 15);
             labelResultado.TabIndex = 2;
-            labelResultado.Text = "labelResultado";
+            labelResultado.Text = "_";
             // 
             // groupBox1
             // 
@@ -76,7 +78,7 @@
             groupBox1.Controls.Add(radioButtonLeer);
             groupBox1.Location = new Point(12, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(207, 211);
+            groupBox1.Size = new Size(150, 211);
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
             groupBox1.Text = "Acción a Realizar ";
@@ -149,7 +151,7 @@
             // 
             // buttonEjecutar
             // 
-            buttonEjecutar.Location = new Point(92, 229);
+            buttonEjecutar.Location = new Point(87, 229);
             buttonEjecutar.Name = "buttonEjecutar";
             buttonEjecutar.Size = new Size(75, 23);
             buttonEjecutar.TabIndex = 4;
@@ -159,7 +161,7 @@
             // 
             // buttonCalcularComision
             // 
-            buttonCalcularComision.Location = new Point(446, 251);
+            buttonCalcularComision.Location = new Point(325, 229);
             buttonCalcularComision.Name = "buttonCalcularComision";
             buttonCalcularComision.Size = new Size(75, 23);
             buttonCalcularComision.TabIndex = 5;
@@ -167,11 +169,32 @@
             buttonCalcularComision.UseVisualStyleBackColor = true;
             buttonCalcularComision.Click += buttonCalcularComision_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(168, 21);
+            label1.Name = "label1";
+            label1.Size = new Size(51, 15);
+            label1.TabIndex = 6;
+            label1.Text = "Nombre";
+            label1.Click += label1_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(168, 57);
+            label2.Name = "label2";
+            label2.Size = new Size(41, 15);
+            label2.TabIndex = 7;
+            label2.Text = "Ventas";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(413, 268);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Controls.Add(buttonCalcularComision);
             Controls.Add(buttonEjecutar);
             Controls.Add(groupBox1);
@@ -200,5 +223,7 @@
         private RadioButton radioButtonSalir;
         private Button buttonEjecutar;
         private Button buttonCalcularComision;
+        private Label label1;
+        private Label label2;
     }
 }

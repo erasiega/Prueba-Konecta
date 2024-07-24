@@ -149,6 +149,11 @@ namespace ejercicio3
                 return listBox.SelectedItem != null ? Path.Combine(categoria, listBox.SelectedItem.ToString()) : null;
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
     public static class Prompt
