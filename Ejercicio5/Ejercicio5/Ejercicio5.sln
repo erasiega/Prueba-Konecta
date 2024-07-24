@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5", "Ejercicio5\Ejercicio5.csproj", "{FF55A5F7-84D8-47FF-A91B-14CA7419A027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio5", "Ejercicio5\Ejercicio5.csproj", "{FF55A5F7-84D8-47FF-A91B-14CA7419A027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

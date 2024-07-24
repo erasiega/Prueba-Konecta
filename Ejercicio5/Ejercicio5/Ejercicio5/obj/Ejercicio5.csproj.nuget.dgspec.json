@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj": {
+    "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
         "projectName": "Ejercicio5",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\Ejercicio5\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,12 +1,207 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio5\\Ejercicio5\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\pages\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\pages\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\pages\\tareas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\pages\\tareas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\pages\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\pages\\tareas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\ejercicio5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\ejercicio5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\documents\\prueba konecta\\ejercicio5\\ejercicio5\\ejercicio5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF55A5F7-84D8-47FF-A91B-14CA7419A027}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Ejercicio5\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Ejercicio5\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T15:38:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Ejercicio5\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:32:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio5",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+              "RelativeDocumentMoniker": "Ejercicio5\\Ejercicio5.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+              "RelativeToolTip": "Ejercicio5\\Ejercicio5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T15:29:43.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Startup.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Startup.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Startup.cs",
+              "RelativeToolTip": "Ejercicio5\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:30:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio5\\Pages\\Tareas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Delete.cshtml",
+              "RelativeToolTip": "Ejercicio5\\Pages\\Tareas\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:25:40.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio5\\Pages\\Tareas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Edit.cshtml",
+              "RelativeToolTip": "Ejercicio5\\Pages\\Tareas\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:55:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio5\\Pages\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Pages\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio5\\Pages\\Tareas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:51:08.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\appsettings.json",
+              "RelativeDocumentMoniker": "Ejercicio5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\appsettings.json",
+              "RelativeToolTip": "Ejercicio5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T14:31:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:28:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ejercicio5\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:24:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio5\\Ejercicio5\\Ejercicio5\\Models\\Tarea.cs",
+              "RelativeToolTip": "Ejercicio5\\Models\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:22:19.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
