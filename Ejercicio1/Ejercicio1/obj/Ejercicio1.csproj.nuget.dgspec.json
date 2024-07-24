@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\Ejercicio1\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio1\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

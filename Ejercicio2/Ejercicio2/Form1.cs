@@ -95,5 +95,40 @@ namespace Ejercicio2
         {
 
         }
+
+        private void comboBoxPalabras_DrawItem(object sender, DrawItemEventArgs e)
+        {
+            // Comprobar que el índice del elemento es válido
+            if (e.Index < 0)
+                return;
+
+            // Obtener el ComboBox
+            ComboBox comboBox = sender as ComboBox;
+
+            // Obtener el elemento a dibujar
+            string item = comboBox.Items[e.Index].ToString();
+
+            // Dibujar el fondo del elemento
+            e.DrawBackground();
+
+            // Determinar el texto a dibujar (en este caso, asteriscos)
+            string displayText = new string('*', item.Length);
+
+            // Dibujar el texto
+            using (Brush textBrush = new SolidBrush(e.ForeColor))
+            {
+                e.Graphics.DrawString(displayText, e.Font, textBrush, e.Bounds);
+            }
+
+            // Dibujar el borde del elemento si está seleccionado
+            e.DrawFocusRectangle();
+        }
+
+        private void comboBoxPalabras_DropDown(object sender, EventArgs e)
+        {
+            // Forzar el ComboBox a redibujar los elementos cuando se despliega
+            ComboBox comboBox = sender as ComboBox;
+            comboBox.Invalidate();
+        }
     }
 }

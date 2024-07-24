@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\ejercicio3\\ejercicio3\\ejercicio3.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio3\\ejercicio3\\ejercicio3.csproj",
       "projectName": "ejercicio3",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\ejercicio3\\ejercicio3\\ejercicio3.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio3\\ejercicio3\\ejercicio3.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba de trabajo\\ejercicio3\\ejercicio3\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Prueba Konecta\\Ejercicio3\\ejercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
