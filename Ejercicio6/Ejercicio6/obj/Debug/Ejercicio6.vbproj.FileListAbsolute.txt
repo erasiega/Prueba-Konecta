@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.xml
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.vbproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.Form1.resources
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.Resources.resources
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.vbproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.vbproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.vbproj.Up2Date
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.xml
+C:\Users\Administrador\Documents\Prueba de trabajo\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
